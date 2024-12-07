@@ -37,6 +37,31 @@ vector<vector<int>> pairSum(vector<int> &arr, int s){
     sort(ans.begin(), ans.end());
     return ans;
 }
+int makeBeautiful(string str) {
+    int n = str.size();
+    // Generate the two target patterns
+    string pattern1 = "";
+    string pattern2 = "";
+    for (int i = 0; i < n; ++i) {
+        if (i % 2 == 0){
+            pattern1 += '0';
+            pattern2 += '1';
+        } else{
+            pattern1 += '1';
+            pattern2 += '0';
+        }
+    }
+    int m1 = 0, m2 = 0;
+    for (int i = 0; i < n; ++i) {
+        if (str[i] != pattern1[i]){
+            m1++;
+        }
+        if(str[i] != pattern2[i]){
+            m2++;
+        }
+    }
+    return min(m1,m2);
+}
 int main() {
     vector<int> arr = {2,4,3,6,1,5}; // 3 4 1 6 2 5 // 1 6 2 5 3 4
     int s = 7;

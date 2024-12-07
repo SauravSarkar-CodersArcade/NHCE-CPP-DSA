@@ -2350,6 +2350,369 @@ build NHCE_CPP_69.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_69_Debug CMakeFiles/NHCE_
   TARGET_IMPLIB = libNHCE_CPP_69.dll.a
   TARGET_PDB = NHCE_CPP_69.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_70
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_70
+
+build cmake_object_order_depends_target_NHCE_CPP_70: phony || CMakeFiles/NHCE_CPP_70.dir
+
+build CMakeFiles/NHCE_CPP_70.dir/Problems/RedundantBrackets.cpp.obj: CXX_COMPILER__NHCE_CPP_70_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Problems/RedundantBrackets.cpp || cmake_object_order_depends_target_NHCE_CPP_70
+  DEP_FILE = CMakeFiles\NHCE_CPP_70.dir\Problems\RedundantBrackets.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_70.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_70.dir\Problems
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_70
+
+
+#############################################
+# Link the executable NHCE_CPP_70.exe
+
+build NHCE_CPP_70.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_70_Debug CMakeFiles/NHCE_CPP_70.dir/Problems/RedundantBrackets.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_70.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_70.exe
+  TARGET_IMPLIB = libNHCE_CPP_70.dll.a
+  TARGET_PDB = NHCE_CPP_70.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_71
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_71
+
+build cmake_object_order_depends_target_NHCE_CPP_71: phony || CMakeFiles/NHCE_CPP_71.dir
+
+build CMakeFiles/NHCE_CPP_71.dir/Problems/LastOccurrence.cpp.obj: CXX_COMPILER__NHCE_CPP_71_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Problems/LastOccurrence.cpp || cmake_object_order_depends_target_NHCE_CPP_71
+  DEP_FILE = CMakeFiles\NHCE_CPP_71.dir\Problems\LastOccurrence.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_71.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_71.dir\Problems
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_71
+
+
+#############################################
+# Link the executable NHCE_CPP_71.exe
+
+build NHCE_CPP_71.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_71_Debug CMakeFiles/NHCE_CPP_71.dir/Problems/LastOccurrence.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_71.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_71.exe
+  TARGET_IMPLIB = libNHCE_CPP_71.dll.a
+  TARGET_PDB = NHCE_CPP_71.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_72
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_72
+
+build cmake_object_order_depends_target_NHCE_CPP_72: phony || CMakeFiles/NHCE_CPP_72.dir
+
+build CMakeFiles/NHCE_CPP_72.dir/Algorithms/GreedyAlgorithms/ActivitySelectionProblem.cpp.obj: CXX_COMPILER__NHCE_CPP_72_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/GreedyAlgorithms/ActivitySelectionProblem.cpp || cmake_object_order_depends_target_NHCE_CPP_72
+  DEP_FILE = CMakeFiles\NHCE_CPP_72.dir\Algorithms\GreedyAlgorithms\ActivitySelectionProblem.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_72.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_72.dir\Algorithms\GreedyAlgorithms
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_72
+
+
+#############################################
+# Link the executable NHCE_CPP_72.exe
+
+build NHCE_CPP_72.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_72_Debug CMakeFiles/NHCE_CPP_72.dir/Algorithms/GreedyAlgorithms/ActivitySelectionProblem.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_72.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_72.exe
+  TARGET_IMPLIB = libNHCE_CPP_72.dll.a
+  TARGET_PDB = NHCE_CPP_72.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_73
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_73
+
+build cmake_object_order_depends_target_NHCE_CPP_73: phony || CMakeFiles/NHCE_CPP_73.dir
+
+build CMakeFiles/NHCE_CPP_73.dir/Algorithms/GreedyAlgorithms/JobSchedulingProblem.cpp.obj: CXX_COMPILER__NHCE_CPP_73_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/GreedyAlgorithms/JobSchedulingProblem.cpp || cmake_object_order_depends_target_NHCE_CPP_73
+  DEP_FILE = CMakeFiles\NHCE_CPP_73.dir\Algorithms\GreedyAlgorithms\JobSchedulingProblem.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_73.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_73.dir\Algorithms\GreedyAlgorithms
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_73
+
+
+#############################################
+# Link the executable NHCE_CPP_73.exe
+
+build NHCE_CPP_73.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_73_Debug CMakeFiles/NHCE_CPP_73.dir/Algorithms/GreedyAlgorithms/JobSchedulingProblem.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_73.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_73.exe
+  TARGET_IMPLIB = libNHCE_CPP_73.dll.a
+  TARGET_PDB = NHCE_CPP_73.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_74
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_74
+
+build cmake_object_order_depends_target_NHCE_CPP_74: phony || CMakeFiles/NHCE_CPP_74.dir
+
+build CMakeFiles/NHCE_CPP_74.dir/Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp.obj: CXX_COMPILER__NHCE_CPP_74_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp || cmake_object_order_depends_target_NHCE_CPP_74
+  DEP_FILE = CMakeFiles\NHCE_CPP_74.dir\Algorithms\GreedyAlgorithms\MinimumNumberOfCoins.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_74.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_74.dir\Algorithms\GreedyAlgorithms
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_74
+
+
+#############################################
+# Link the executable NHCE_CPP_74.exe
+
+build NHCE_CPP_74.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_74_Debug CMakeFiles/NHCE_CPP_74.dir/Algorithms/GreedyAlgorithms/MinimumNumberOfCoins.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_74.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_74.exe
+  TARGET_IMPLIB = libNHCE_CPP_74.dll.a
+  TARGET_PDB = NHCE_CPP_74.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_75
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_75
+
+build cmake_object_order_depends_target_NHCE_CPP_75: phony || CMakeFiles/NHCE_CPP_75.dir
+
+build CMakeFiles/NHCE_CPP_75.dir/Algorithms/GreedyAlgorithms/MinCostOfJoiningROpes.cpp.obj: CXX_COMPILER__NHCE_CPP_75_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/GreedyAlgorithms/MinCostOfJoiningROpes.cpp || cmake_object_order_depends_target_NHCE_CPP_75
+  DEP_FILE = CMakeFiles\NHCE_CPP_75.dir\Algorithms\GreedyAlgorithms\MinCostOfJoiningROpes.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_75.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_75.dir\Algorithms\GreedyAlgorithms
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_75
+
+
+#############################################
+# Link the executable NHCE_CPP_75.exe
+
+build NHCE_CPP_75.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_75_Debug CMakeFiles/NHCE_CPP_75.dir/Algorithms/GreedyAlgorithms/MinCostOfJoiningROpes.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_75.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_75.exe
+  TARGET_IMPLIB = libNHCE_CPP_75.dll.a
+  TARGET_PDB = NHCE_CPP_75.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_76
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_76
+
+build cmake_object_order_depends_target_NHCE_CPP_76: phony || CMakeFiles/NHCE_CPP_76.dir
+
+build CMakeFiles/NHCE_CPP_76.dir/Algorithms/GreedyAlgorithms/PoliceMenCatchThieves.cpp.obj: CXX_COMPILER__NHCE_CPP_76_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/GreedyAlgorithms/PoliceMenCatchThieves.cpp || cmake_object_order_depends_target_NHCE_CPP_76
+  DEP_FILE = CMakeFiles\NHCE_CPP_76.dir\Algorithms\GreedyAlgorithms\PoliceMenCatchThieves.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_76.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_76.dir\Algorithms\GreedyAlgorithms
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_76
+
+
+#############################################
+# Link the executable NHCE_CPP_76.exe
+
+build NHCE_CPP_76.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_76_Debug CMakeFiles/NHCE_CPP_76.dir/Algorithms/GreedyAlgorithms/PoliceMenCatchThieves.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_76.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_76.exe
+  TARGET_IMPLIB = libNHCE_CPP_76.dll.a
+  TARGET_PDB = NHCE_CPP_76.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_77
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_77
+
+build cmake_object_order_depends_target_NHCE_CPP_77: phony || CMakeFiles/NHCE_CPP_77.dir
+
+build CMakeFiles/NHCE_CPP_77.dir/Algorithms/DP/FibRecursion.cpp.obj: CXX_COMPILER__NHCE_CPP_77_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/DP/FibRecursion.cpp || cmake_object_order_depends_target_NHCE_CPP_77
+  DEP_FILE = CMakeFiles\NHCE_CPP_77.dir\Algorithms\DP\FibRecursion.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_77.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_77.dir\Algorithms\DP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_77
+
+
+#############################################
+# Link the executable NHCE_CPP_77.exe
+
+build NHCE_CPP_77.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_77_Debug CMakeFiles/NHCE_CPP_77.dir/Algorithms/DP/FibRecursion.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_77.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_77.exe
+  TARGET_IMPLIB = libNHCE_CPP_77.dll.a
+  TARGET_PDB = NHCE_CPP_77.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_78
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_78
+
+build cmake_object_order_depends_target_NHCE_CPP_78: phony || CMakeFiles/NHCE_CPP_78.dir
+
+build CMakeFiles/NHCE_CPP_78.dir/Algorithms/DP/FibMemo.cpp.obj: CXX_COMPILER__NHCE_CPP_78_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/DP/FibMemo.cpp || cmake_object_order_depends_target_NHCE_CPP_78
+  DEP_FILE = CMakeFiles\NHCE_CPP_78.dir\Algorithms\DP\FibMemo.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_78.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_78.dir\Algorithms\DP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_78
+
+
+#############################################
+# Link the executable NHCE_CPP_78.exe
+
+build NHCE_CPP_78.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_78_Debug CMakeFiles/NHCE_CPP_78.dir/Algorithms/DP/FibMemo.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_78.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_78.exe
+  TARGET_IMPLIB = libNHCE_CPP_78.dll.a
+  TARGET_PDB = NHCE_CPP_78.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_79
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_79
+
+build cmake_object_order_depends_target_NHCE_CPP_79: phony || CMakeFiles/NHCE_CPP_79.dir
+
+build CMakeFiles/NHCE_CPP_79.dir/Algorithms/DP/FibTabu.cpp.obj: CXX_COMPILER__NHCE_CPP_79_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/DP/FibTabu.cpp || cmake_object_order_depends_target_NHCE_CPP_79
+  DEP_FILE = CMakeFiles\NHCE_CPP_79.dir\Algorithms\DP\FibTabu.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_79.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_79.dir\Algorithms\DP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_79
+
+
+#############################################
+# Link the executable NHCE_CPP_79.exe
+
+build NHCE_CPP_79.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_79_Debug CMakeFiles/NHCE_CPP_79.dir/Algorithms/DP/FibTabu.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_79.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_79.exe
+  TARGET_IMPLIB = libNHCE_CPP_79.dll.a
+  TARGET_PDB = NHCE_CPP_79.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target NHCE_CPP_80
+
+
+#############################################
+# Order-only phony target for NHCE_CPP_80
+
+build cmake_object_order_depends_target_NHCE_CPP_80: phony || CMakeFiles/NHCE_CPP_80.dir
+
+build CMakeFiles/NHCE_CPP_80.dir/Algorithms/DP/FibSo.cpp.obj: CXX_COMPILER__NHCE_CPP_80_Debug C$:/Users/Saurav/CLionProjects/NHCE-CPP/Algorithms/DP/FibSo.cpp || cmake_object_order_depends_target_NHCE_CPP_80
+  DEP_FILE = CMakeFiles\NHCE_CPP_80.dir\Algorithms\DP\FibSo.cpp.obj.d
+  FLAGS = -g -std=gnu++23
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_80.dir
+  OBJECT_FILE_DIR = CMakeFiles\NHCE_CPP_80.dir\Algorithms\DP
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target NHCE_CPP_80
+
+
+#############################################
+# Link the executable NHCE_CPP_80.exe
+
+build NHCE_CPP_80.exe: CXX_EXECUTABLE_LINKER__NHCE_CPP_80_Debug CMakeFiles/NHCE_CPP_80.dir/Algorithms/DP/FibSo.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\NHCE_CPP_80.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = NHCE_CPP_80.exe
+  TARGET_IMPLIB = libNHCE_CPP_80.dll.a
+  TARGET_PDB = NHCE_CPP_80.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -2512,7 +2875,29 @@ build NHCE_CPP_69: phony NHCE_CPP_69.exe
 
 build NHCE_CPP_7: phony NHCE_CPP_7.exe
 
+build NHCE_CPP_70: phony NHCE_CPP_70.exe
+
+build NHCE_CPP_71: phony NHCE_CPP_71.exe
+
+build NHCE_CPP_72: phony NHCE_CPP_72.exe
+
+build NHCE_CPP_73: phony NHCE_CPP_73.exe
+
+build NHCE_CPP_74: phony NHCE_CPP_74.exe
+
+build NHCE_CPP_75: phony NHCE_CPP_75.exe
+
+build NHCE_CPP_76: phony NHCE_CPP_76.exe
+
+build NHCE_CPP_77: phony NHCE_CPP_77.exe
+
+build NHCE_CPP_78: phony NHCE_CPP_78.exe
+
+build NHCE_CPP_79: phony NHCE_CPP_79.exe
+
 build NHCE_CPP_8: phony NHCE_CPP_8.exe
+
+build NHCE_CPP_80: phony NHCE_CPP_80.exe
 
 build NHCE_CPP_9: phony NHCE_CPP_9.exe
 
@@ -2524,7 +2909,7 @@ build NHCE_CPP_9: phony NHCE_CPP_9.exe
 #############################################
 # Folder: C:/Users/Saurav/CLionProjects/NHCE-CPP/cmake-build-debug
 
-build all: phony NHCE_CPP.exe NHCE_CPP_0.exe NHCE_CPP_1.exe NHCE_CPP_2.exe NHCE_CPP_3.exe NHCE_CPP_4.exe NHCE_CPP_5.exe NHCE_CPP_6.exe NHCE_CPP_7.exe NHCE_CPP_8.exe NHCE_CPP_9.exe NHCE_CPP_10.exe NHCE_CPP_11.exe NHCE_CPP_12.exe NHCE_CPP_13.exe NHCE_CPP_15.exe NHCE_CPP_16.exe NHCE_CPP_17.exe NHCE_CPP_18.exe NHCE_CPP_19.exe NHCE_CPP_20.exe NHCE_CPP_21.exe NHCE_CPP_22.exe NHCE_CPP_23.exe NHCE_CPP_24.exe NHCE_CPP_25.exe NHCE_CPP_26.exe NHCE_CPP_27.exe NHCE_CPP_28.exe NHCE_CPP_29.exe NHCE_CPP_30.exe NHCE_CPP_31.exe NHCE_CPP_32.exe NHCE_CPP_33.exe NHCE_CPP_34.exe NHCE_CPP_35.exe NHCE_CPP_36.exe NHCE_CPP_37.exe NHCE_CPP_38.exe NHCE_CPP_39.exe NHCE_CPP_40.exe NHCE_CPP_41.exe NHCE_CPP_42.exe NHCE_CPP_43.exe NHCE_CPP_44.exe NHCE_CPP_45.exe NHCE_CPP_46.exe NHCE_CPP_47.exe NHCE_CPP_48.exe NHCE_CPP_49.exe NHCE_CPP_50.exe NHCE_CPP_51.exe NHCE_CPP_52.exe NHCE_CPP_53.exe NHCE_CPP_54.exe NHCE_CPP_55.exe NHCE_CPP_56.exe NHCE_CPP_57.exe NHCE_CPP_58.exe NHCE_CPP_59.exe NHCE_CPP_60.exe NHCE_CPP_61.exe NHCE_CPP_62.exe NHCE_CPP_63.exe NHCE_CPP_64.exe NHCE_CPP_65.exe NHCE_CPP_66.exe NHCE_CPP_67.exe NHCE_CPP_68.exe NHCE_CPP_69.exe
+build all: phony NHCE_CPP.exe NHCE_CPP_0.exe NHCE_CPP_1.exe NHCE_CPP_2.exe NHCE_CPP_3.exe NHCE_CPP_4.exe NHCE_CPP_5.exe NHCE_CPP_6.exe NHCE_CPP_7.exe NHCE_CPP_8.exe NHCE_CPP_9.exe NHCE_CPP_10.exe NHCE_CPP_11.exe NHCE_CPP_12.exe NHCE_CPP_13.exe NHCE_CPP_15.exe NHCE_CPP_16.exe NHCE_CPP_17.exe NHCE_CPP_18.exe NHCE_CPP_19.exe NHCE_CPP_20.exe NHCE_CPP_21.exe NHCE_CPP_22.exe NHCE_CPP_23.exe NHCE_CPP_24.exe NHCE_CPP_25.exe NHCE_CPP_26.exe NHCE_CPP_27.exe NHCE_CPP_28.exe NHCE_CPP_29.exe NHCE_CPP_30.exe NHCE_CPP_31.exe NHCE_CPP_32.exe NHCE_CPP_33.exe NHCE_CPP_34.exe NHCE_CPP_35.exe NHCE_CPP_36.exe NHCE_CPP_37.exe NHCE_CPP_38.exe NHCE_CPP_39.exe NHCE_CPP_40.exe NHCE_CPP_41.exe NHCE_CPP_42.exe NHCE_CPP_43.exe NHCE_CPP_44.exe NHCE_CPP_45.exe NHCE_CPP_46.exe NHCE_CPP_47.exe NHCE_CPP_48.exe NHCE_CPP_49.exe NHCE_CPP_50.exe NHCE_CPP_51.exe NHCE_CPP_52.exe NHCE_CPP_53.exe NHCE_CPP_54.exe NHCE_CPP_55.exe NHCE_CPP_56.exe NHCE_CPP_57.exe NHCE_CPP_58.exe NHCE_CPP_59.exe NHCE_CPP_60.exe NHCE_CPP_61.exe NHCE_CPP_62.exe NHCE_CPP_63.exe NHCE_CPP_64.exe NHCE_CPP_65.exe NHCE_CPP_66.exe NHCE_CPP_67.exe NHCE_CPP_68.exe NHCE_CPP_69.exe NHCE_CPP_70.exe NHCE_CPP_71.exe NHCE_CPP_72.exe NHCE_CPP_73.exe NHCE_CPP_74.exe NHCE_CPP_75.exe NHCE_CPP_76.exe NHCE_CPP_77.exe NHCE_CPP_78.exe NHCE_CPP_79.exe NHCE_CPP_80.exe
 
 # =============================================================================
 # Built-in targets
